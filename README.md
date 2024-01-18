@@ -52,7 +52,7 @@ Forward-thinking Software Engineer with a background working effectively in dyna
 
 ## 📖 Latest Blog Posts
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>How I Landed How I Landed A Job In Cyber Security With No Professional Experience, Certifications, Nor A Degree.</strong></td><td></td><td></td><td><a href=".gitbook/assets/iaan_security_cover.jpg">iaan_security_cover.jpg</a></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>How I Landed How I Landed A Job In Cyber Security With No Professional Experience, Certifications, Nor A Degree.</strong></td><td></td><td></td><td><a href="https://app.gitbook.com/s/uNGziNBCJS6sCcuLUubV/">How I Landed A Job In Cyber Security</a></td><td><a href=".gitbook/assets/iaan_security_cover.jpg">iaan_security_cover.jpg</a></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 * [How I Landed A Job In Cyber Security With No Professional Experience, Certifications, Nor A Degree](https://dev.to/l0wk3y/how-i-landed-a-job-in-cyber-security-with-no-professional-experience-certifications-nor-a-degree-2doc)
 * [IAANSEC | WannaCry Analysis Report](https://dev.to/l0wk3y/wannacry-analysis-report-g7c)
