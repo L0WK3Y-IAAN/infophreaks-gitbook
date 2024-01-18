@@ -6,7 +6,7 @@ coverY: 2
 # About Me
 
 {% hint style="success" %}
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=30&duration=4000&pause=5000&color=00F72B&multiline=true&random=false&width=900&lines=Join+me+on+my+journey+to+learn+about+all+things+cyber+security%2C+business%2C+and+finance!)](https://git.io/typing-svg)
+**Join me on my journey to learn about all things cyber security, business, and finance!**
 {% endhint %}
 
 ![](https://i.imgur.com/JONohuQ.gif?raw=true)
