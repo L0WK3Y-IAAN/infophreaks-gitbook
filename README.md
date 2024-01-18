@@ -19,9 +19,8 @@ Forward-thinking Software Engineer with a background working effectively in dyna
 
 * 🌱 Always learning
 * 💬 Ask me about my work experience
-* 📫 How to reach me: jonny@iaansec.com
+* 📫 How to reach me: **<jonny@iaansec.com>**
 * ⚡ Fun fact: I am also a music producer
-
 
 [![Website](https://img.shields.io/website?label=IAAN%20SECURITY\&style=for-the-badge\&url=https%3A//www.iaansecurity.com)](https://www.iaansecurity.com)
 [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://github.com/L0WK3Y-IAAN)
@@ -57,19 +56,12 @@ Forward-thinking Software Engineer with a background working effectively in dyna
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>How I Landed How I Landed A Job In Cyber Security With No Professional Experience, Certifications, Nor A Degree.</strong></td><td></td><td></td><td><a href="https://app.gitbook.com/s/uNGziNBCJS6sCcuLUubV/">How I Landed A Job In Cyber Security</a></td><td><a href=".gitbook/assets/iaan_security_cover.jpg">iaan_security_cover.jpg</a></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
-* [How I Landed A Job In Cyber Security With No Professional Experience, Certifications, Nor A Degree](https://dev.to/l0wk3y/how-i-landed-a-job-in-cyber-security-with-no-professional-experience-certifications-nor-a-degree-2doc)
-* [IAANSEC | WannaCry Analysis Report](https://dev.to/l0wk3y/wannacry-analysis-report-g7c)
-* [TryHackMe - Searchlight - IMINT (Writeup)](https://dev.to/l0wk3y/tryhackme-searchlight-imint-write-up-2ee8)
-* [IAANSEC - BrickRoll (Official Write Up)](https://dev.to/l0wk3y/thm-brickroll-official-write-up-378d)
-* [TryHackMe - REloaded Writeup](https://dev.to/l0wk3y/tryhackme-reloaded-writeup-4n1o)
-
 ## 📈 Stats
-[![Visits Badge](https://badges.pufler.dev/visits/L0WK3Y-IAAN/L0WK3Y-IAAN)](https://github.com/L0WK3Y-IAAN/L0WK3Y-IAAN) &nbsp;
-[![Last Updated](https://badges.pufler.dev/updated/L0WK3Y-IAAN/infophreaks-iaan-gitbook)](https://github.com/username/repo/commits/master)
+![Visits Badge](https://badges.pufler.dev/visits/L0WK3Y-IAAN/L0WK3Y-IAAN) 
+&nbsp;
+![Last Updated](https://img.shields.io/github/last-commit/L0WK3Y-IAAN/infophreaks-iaan-gitbook)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L0WK3Y-IAAN)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=L0WK3Y-IAAN\&show\_icons=true\&count\_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L0WK3Y-IAAN)![GitHub stats](https://github-readme-stats.vercel.app/api?username=L0WK3Y-IAAN\&show\_icons=true\&count\_private=true)
 
 <!-- 
 <details>
