@@ -57,8 +57,7 @@ Forward-thinking Software Engineer with a background working effectively in dyna
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>How I Landed How I Landed A Job In Cyber Security With No Professional Experience, Certifications, Nor A Degree.</strong></td><td></td><td></td><td><a href="https://app.gitbook.com/s/uNGziNBCJS6sCcuLUubV/">How I Landed A Job In Cyber Security</a></td><td><a href=".gitbook/assets/iaan_security_cover.jpg">iaan_security_cover.jpg</a></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 ## 📈 Stats
-![Visits Badge](https://badges.pufler.dev/visits/L0WK3Y-IAAN/L0WK3Y-IAAN) 
-&nbsp;
+![Visits Badge](https://badges.pufler.dev/visits/L0WK3Y-IAAN/L0WK3Y-IAAN)&nbsp;
 ![Last Updated](https://img.shields.io/github/last-commit/L0WK3Y-IAAN/infophreaks-iaan-gitbook)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L0WK3Y-IAAN)![GitHub stats](https://github-readme-stats.vercel.app/api?username=L0WK3Y-IAAN\&show\_icons=true\&count\_private=true)
