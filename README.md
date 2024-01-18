@@ -6,7 +6,7 @@ coverY: 2
 # About Me
 
 {% hint style="success" %}
-## **Join me on my journey to learn about all things cyber security, software development, business, and finance!**
+**Join me on my journey to learn about all things cyber security, software development, business, and finance!**
 {% endhint %}
 
 ![](https://i.imgur.com/JONohuQ.gif?raw=true)
@@ -56,6 +56,14 @@ Forward-thinking Software Engineer with a background working effectively in dyna
 
 ## 📈 Stats
 
-![Visits Badge](https://badges.pufler.dev/visits/L0WK3Y-IAAN/L0WK3Y-IAAN) ![Last Updated](https://img.shields.io/github/last-commit/L0WK3Y-IAAN/infophreaks-iaan-gitbook)
+<div align="left">
+
+<img src="https://badges.pufler.dev/visits/L0WK3Y-IAAN/L0WK3Y-IAAN" alt="Visits Badge">
+
+ 
+
+<img src="https://img.shields.io/github/last-commit/L0WK3Y-IAAN/infophreaks-iaan-gitbook" alt="Last Updated">
+
+</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L0WK3Y-IAAN) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=L0WK3Y-IAAN\&show\_icons=true\&count\_private=true)
