@@ -1,3 +1,3 @@
 # Table of contents
 
-* [IAAN](README.md)
+* [About Me](README.md)
