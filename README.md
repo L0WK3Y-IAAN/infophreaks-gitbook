@@ -6,7 +6,7 @@ coverY: 2
 # About Me
 
 {% hint style="success" %}
-**Join me on my journey to learn about all things cyber security, business, and finance!**
+## **Join me on my journey to learn about all things cyber security, software development, business, and finance!**
 {% endhint %}
 
 ![](https://i.imgur.com/JONohuQ.gif?raw=true)
@@ -19,12 +19,10 @@ Forward-thinking Software Engineer with a background working effectively in dyna
 
 * 🌱 Always learning
 * 💬 Ask me about my work experience
-* 📫 How to reach me: **<jonny@iaansec.com>**
+* 📫 How to reach me: [**jonny@iaansec.com**](mailto:jonny@iaansec.com)
 * ⚡ Fun fact: I am also a music producer
 
-[![Website](https://img.shields.io/website?label=IAAN%20SECURITY\&style=for-the-badge\&url=https%3A//www.iaansecurity.com)](https://www.iaansecurity.com)
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://github.com/L0WK3Y-IAAN)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iaansec/)
+[![Website](https://img.shields.io/website?label=IAAN%20SECURITY\&style=for-the-badge\&url=https%3A//www.iaansecurity.com)](https://www.iaansecurity.com) [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge\&logo=gitlab\&logoColor=white)](https://github.com/L0WK3Y-IAAN) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/iaansec/)
 
 ## 💼 Experience
 
@@ -54,19 +52,10 @@ Forward-thinking Software Engineer with a background working effectively in dyna
 
 ## 📖 Latest Blog Posts
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>How I Landed How I Landed A Job In Cyber Security With No Professional Experience, Certifications, Nor A Degree.</strong></td><td></td><td></td><td><a href="https://app.gitbook.com/s/uNGziNBCJS6sCcuLUubV/">How I Landed A Job In Cyber Security</a></td><td><a href=".gitbook/assets/iaan_security_cover.jpg">iaan_security_cover.jpg</a></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>How I Landed How I Landed A Job In Cyber Security With No Professional Experience, Certifications, Nor A Degree.</strong></td><td></td><td></td><td><a href="https://app.gitbook.com/o/A9NqrI51qIpICMxo0hd5/s/uNGziNBCJS6sCcuLUubV/">How I Landed A Job In Cyber Security</a></td><td><a href=".gitbook/assets/iaan_security_cover.jpg">iaan_security_cover.jpg</a></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 ## 📈 Stats
-![Visits Badge](https://badges.pufler.dev/visits/L0WK3Y-IAAN/L0WK3Y-IAAN)&nbsp;
-![Last Updated](https://img.shields.io/github/last-commit/L0WK3Y-IAAN/infophreaks-iaan-gitbook)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L0WK3Y-IAAN)![GitHub stats](https://github-readme-stats.vercel.app/api?username=L0WK3Y-IAAN\&show\_icons=true\&count\_private=true)
+![Visits Badge](https://badges.pufler.dev/visits/L0WK3Y-IAAN/L0WK3Y-IAAN) ![Last Updated](https://img.shields.io/github/last-commit/L0WK3Y-IAAN/infophreaks-iaan-gitbook)
 
-<!-- 
-<details>
-
-* This
-* is
-* a
-* test
-</details> -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L0WK3Y-IAAN) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=L0WK3Y-IAAN\&show\_icons=true\&count\_private=true)
