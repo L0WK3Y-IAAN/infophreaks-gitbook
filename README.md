@@ -8,119 +8,88 @@ coverY: 2
 
 
 {% hint style="success" %}
-**Welcome to the wiki where you will find each hacking trick/technique/whatever I have learnt from CTFs, real life apps, reading researches, and news.**
+**Join me on my journey to learn about all things cyber security, business, and finance!**
 {% endhint %}
 
-To get started follow this page where you will find the **typical flow** that **you should follow when pentesting** one or more **machines:**
+[comment]: <> (<img src="https://i.imgur.com/4QLtBTd.gif?raw=true" width=100% height=300>)
+<img src="https://i.imgur.com/JONohuQ.gif?raw=true" width=100% height=500>
 
-{% content-ref url="generic-methodologies-and-resources/pentesting-methodology.md" %}
-[pentesting-methodology.md](generic-methodologies-and-resources/pentesting-methodology.md)
+### ☺ About Me
+
+### Hi there 👋, my name is Jonny
+#### Malware Analyst | Software Engineer
+Forward-thinking Software Engineer with a background working
+effectively in dynamic environments. Fluent in Python and
+Javascript programming languages used to develop Web
+Applications. Enjoys learning about the cyber security field,
+specifically doing hands-on malware analysis and reverse
+engineering as a hobby.
+
+
+- 🌱  Always learning
+- 💬  Ask me about my work experience
+- 📫  How to reach me: jonny@iaansec.com
+- ⚡  Fun fact: I am also a music producer
+
+
+[![Website](https://img.shields.io/website?label=IAANSec&style=for-the-badge&url=https%3A%2F%2Fiaansec.com&color=green)](https://iaansec.com) [![Website](https://img.shields.io/website?label=dev.to&style=for-the-badge&url=https%3A%2F%2Fdev.to/l0wk3y&color=orange)](https://dev.to/l0wk3y) [![Website](https://img.shields.io/website?label=GitHub&style=for-the-badge&url=https%3A%2F%2Fgithub.com/l0wk3y&color=yellow)](https://github.com/L0WK3Y-IAAN) [![Website](https://img.shields.io/website?label=LinkedIn&style=for-the-badge&url=https%3A%2F%2Flinkedin.com/in/l0wk3yiaansec&color=blue)](https://www.linkedin.com/in/l0wk3yiaansec)
+
+
+
+
+
+#
+
+### 💼 Experience
+✔️ Has conducted vulnerability research/assessment (MITRE ATT&CK, Nessus).
+<br />✔️ Experience with .NET UI Development (Winforms).
+<br />✔️ Experience working with API's.
+<br />✔️ Experience with Google Dorking.
+<br />✔️ Understands Linux fundamentals.
+<br />✔️ Experience mapping networks with NMAP.
+<br />✔️ Experience exploiting vulnerabilities with Metasploit.
+<br />✔️ Experience developing and automating security tools with Python and C#.
+<br />✔️ Understands HTTP fundamentals.
+<br />✔️ Experience with Virtual Machines (Hyper-V, Virtual Box, VMware ESXi, Proxmox).
+<br />✔️ Understands Networking Concepts (TCP/IP - OSI).
+<br />✔️ Experience conducting Static and Dynamic Malware Analysis and tools such as Ghidra, x64dbg, IDA, Wireshark, Radare2, and Sysinternals.
+<br />✔️ Experience reading and writing Assembly Experience conducting reverse engineering.
+<br />✔️ Experience with XSS Experience with SIEM (Splunk).
+<br />✔️ Has experience with OSINT, IMINT, GEOINT, and Reconnaissance.
+<br />✔️ Front-End Development (Javascript, React).
+<br />✔️ Experience with building security tools and automation (Python).
+<br />✔️ Experience with ISAC to gather threat intelligence and collect IOCs.
+<br />✔️ Solid understanding of Programming Fundamentals and Languages (C, Python, Javascript, and C#/.NET).
+<br />✔️ Experience with Technical Writing.
+<br />✔️ Experience with JIRA and Confluence.
+<br />✔️ Knowledge of Digital Forensics.
+<br />✔️ Has fundamental knowledge of SQL database querying and working with Firebase.
+
+#
+
+### 📕  Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [How I Landed A Job In Cyber Security With No Professional Experience, Certifications, Nor A Degree](https://dev.to/l0wk3y/how-i-landed-a-job-in-cyber-security-with-no-professional-experience-certifications-nor-a-degree-2doc)
+- [IAANSEC | WannaCry Analysis Report](https://dev.to/l0wk3y/wannacry-analysis-report-g7c)
+- [TryHackMe - Searchlight - IMINT &lpar;Writeup&rpar;](https://dev.to/l0wk3y/tryhackme-searchlight-imint-write-up-2ee8)
+- [IAANSEC - BrickRoll &lpar;Official Write Up&rpar;](https://dev.to/l0wk3y/thm-brickroll-official-write-up-378d)
+- [TryHackMe - REloaded Writeup](https://dev.to/l0wk3y/tryhackme-reloaded-writeup-4n1o)
+<!-- BLOG-POST-LIST:END -->
+
+#
+
+### 📈  Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L0WK3Y-IAAN)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=L0WK3Y-IAAN&show_icons=true&count_private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/L0WK3Y-IAAN)  
+
+{% content-ref url="blogs/how-i-landed-a-job-in-cybersecurity.md" %}
+[how-i-landed-a-job-in-cybersecurity.md](blogs/how-i-landed-a-job-in-cybersecurity.md)
 {% endcontent-ref %}
 
-## Platinum Sponsors
-
-_Your company could be here._
-
-## Corporate Sponsors
-
-### [STM Cyber](https://www.stmcyber.com)
-
-<figure><img src=".gitbook/assets/stm%20(1).png" alt=""><figcaption></figcaption></figure>
-
-[**STM Cyber**](https://www.stmcyber.com) is a great cybersecurity company whose slogan is **HACK THE UNHACKABLE**. They perform their own research and develop their own hacking tools to **offer several valuable cybersecurity services** like pentesting, Red teams and training.
-
-You can check their **blog** in [**https://blog.stmcyber.com**](https://blog.stmcyber.com)
-
-**STM Cyber** also support cybersecurity open source projects like HackTricks :)
-
-### [RootedCON](https://www.rootedcon.com/)
-
-<figure><img src=".gitbook/assets/image%20(4)%20(1)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
-
-[**RootedCON**](https://www.rootedcon.com) is the most relevant cybersecurity event in **Spain** and one of the most important in **Europe**. With **the mission of promoting technical knowledge**, this congress is a boiling meeting point for technology and cybersecurity professionals in every discipline.
-
-{% embed url="https://www.rootedcon.com/" %}
-
-### [Intigriti](https://www.intigriti.com)
-
-<figure><img src=".gitbook/assets/image%20(2)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
-
-**Intigriti** is the **Europe's #1** ethical hacking and **bug bounty platform.**
-
-**Bug bounty tip**: **sign up** for **Intigriti**, a premium **bug bounty platform created by hackers, for hackers**! Join us at [**https://go.intigriti.com/hacktricks**](https://go.intigriti.com/hacktricks) today, and start earning bounties up to **$100,000**!
-
-{% embed url="https://go.intigriti.com/hacktricks" fullWidth="false" %}
-
-### [Trickest](https://trickest.com/?utm\_campaign=hacktrics\&utm\_medium=banner\&utm\_source=hacktricks)
-
-<figure><img src=".gitbook/assets/image%20(3)%20(1)%20(1)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
-
-\
-Use [**Trickest**](https://trickest.com/?utm\_campaign=hacktrics\&utm\_medium=banner\&utm\_source=hacktricks) to easily build and **automate workflows** powered by the world's **most advanced** community tools.
-
-Get Access Today:
-
-{% embed url="https://trickest.com/?utm_campaign=hacktrics&utm_medium=banner&utm_source=hacktricks" %}
-
-### [Intruder](https://www.intruder.io/?utm\_source=referral\&utm\_campaign=hacktricks)
-
-<figure><img src=".gitbook/assets/image%20(675).png" alt=""><figcaption></figcaption></figure>
-
-Stay a step ahead in the cybersecurity game.
-
-[**Intruder**](https://www.intruder.io/?utm\_source=referral\&utm\_campaign=hacktricks) makes vulnerability management easy. Keep track of your attack surface, see where your company is vulnerable, and prioritize issues that leave your systems most exposed so you can focus on what matters most.
-
-Run thousands of checks with a single platform that covers your entire tech stack from internal infrastructure to web apps, APIs and cloud systems. Integrate seamlessly with [AWS, GCP, Azure](https://www.intruder.io/cloud-vulnerability-scanning-for-aws-google-cloud-and-azure) and streamline DevOps so your team can implement fixes faster.
-
-Intruder never rests. Round-the-clock protection monitors your systems 24/7. Want to learn more? Visit their site and take it for a spin with [**a free trial**](https://www.intruder.io/?utm\_source=referral\&utm\_campaign=hacktricks).
-
-{% embed url="https://www.intruder.io/?utm_campaign=hacktricks&utm_source=referral" %}
-
-### [HACKENPROOF](https://bit.ly/3xrrDrL)
-
-<figure><img src=".gitbook/assets/image%20(5)%20(1).png" alt=""><figcaption></figcaption></figure>
-
-Join [**HackenProof Discord**](https://discord.com/invite/N3FrSbmwdy) server to communicate with experienced hackers and bug bounty hunters!
-
-**Hacking Insights**\
-Engage with content that delves into the thrill and challenges of hacking
-
-**Real-Time Hack News**\
-Keep up-to-date with fast-paced hacking world through real-time news and insights
-
-**Latest Announcements**\
-Stay informed with the newest bug bounties launching and crucial platform updates
-
-**Join us on** [**Discord**](https://discord.com/invite/N3FrSbmwdy) and start collaborating with top hackers today!
-
-***
-
-### [Pentest-Tools.com](https://pentest-tools.com/) - The essential penetration testing toolkit
-
-<figure><img src=".gitbook/assets/image%20(3).png" alt=""><figcaption></figcaption></figure>
-
-**Instantly available setup for vulnerability assessment & penetration testing**. Run a full pentest from anywhere with 20+ tools & features that go from recon to reporting. We don't replace pentesters - we develop custom tools, detection & exploitation modules to give them back some time to dig deeper, pop shells, and have fun.
-
-{% embed url="https://pentest-tools.com/" %}
-
-### [WebSec](https://websec.nl/)
-
-<figure><img src=".gitbook/assets/websec%20(1).svg" alt=""><figcaption></figcaption></figure>
-
-[**WebSec**](https://websec.nl) is a professional cybersecurity company based in **Amsterdam** which helps **protecting** businesses **all over the world** against the latest cybersecurity threats by providing **offensive-security services** with a **modern** approach.
-
-WebSec is an **all-in-one security company** which means they do it all; Pentesting, **Security** Audits, Awareness Trainings, Phishing Campagnes, Code Review, Exploit Development, Security Experts Outsourcing and much more.
-
-Another cool thing about WebSec is that unlike the industry average WebSec is **very confident in their skills**, to such an extent that they **guarantee the best quality results**, it states on their website "**If we can't hack it, You don't pay it!**". For more info take a look at their [**website**](https://websec.nl/en/) and [**blog**](https://websec.nl/blog/)!
-
-In addition to the above WebSec is also a **committed supporter of HackTricks.**
-
-{% embed url="https://www.youtube.com/watch?v=Zq2JycGDCPM" %}
-
-## License
-
-**Copyright © Carlos Polop 2023. Except where otherwise specified (the external information copied into the book belongs to the original authors), the text on** [**HACK TRICKS**](https://github.com/carlospolop/hacktricks) **by Carlos Polop is licensed under the**[ **Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**](https://creativecommons.org/licenses/by-nc/4.0/)**.**\
-**If you want to use it with commercial purposes, contact me.**
 
 ## **Disclaimer**
 
