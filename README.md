@@ -3,9 +3,7 @@ cover: .gitbook/assets/iaan_security_cover_gitbook.jpg
 coverY: 2
 ---
 
-# IAAN
-
-
+# About Me
 
 {% hint style="success" %}
 **Join me on my journey to learn about all things cyber security, business, and finance!**
@@ -14,7 +12,6 @@ coverY: 2
 [comment]: <> (<img src="https://i.imgur.com/4QLtBTd.gif?raw=true" width=100% height=300>)
 <img src="https://i.imgur.com/JONohuQ.gif?raw=true" width=100% height=500>
 
-### ☺ About Me
 
 ### Hi there 👋, my name is Jonny
 #### Malware Analyst | Software Engineer
@@ -35,12 +32,7 @@ engineering as a hobby.
 [![Website](https://img.shields.io/website?label=IAANSec&style=for-the-badge&url=https%3A%2F%2Fiaansec.com&color=green)](https://iaansec.com) [![Website](https://img.shields.io/website?label=dev.to&style=for-the-badge&url=https%3A%2F%2Fdev.to/l0wk3y&color=orange)](https://dev.to/l0wk3y) [![Website](https://img.shields.io/website?label=GitHub&style=for-the-badge&url=https%3A%2F%2Fgithub.com/l0wk3y&color=yellow)](https://github.com/L0WK3Y-IAAN) [![Website](https://img.shields.io/website?label=LinkedIn&style=for-the-badge&url=https%3A%2F%2Flinkedin.com/in/l0wk3yiaansec&color=blue)](https://www.linkedin.com/in/l0wk3yiaansec)
 
 
-
-
-
-#
-
-### 💼 Experience
+# 💼 Experience
 ✔️ Has conducted vulnerability research/assessment (MITRE ATT&CK, Nessus).
 <br />✔️ Experience with .NET UI Development (Winforms).
 <br />✔️ Experience working with API's.
@@ -65,9 +57,8 @@ engineering as a hobby.
 <br />✔️ Knowledge of Digital Forensics.
 <br />✔️ Has fundamental knowledge of SQL database querying and working with Firebase.
 
-#
 
-### 📕  Latest Blog Posts
+# 📖  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [How I Landed A Job In Cyber Security With No Professional Experience, Certifications, Nor A Degree](https://dev.to/l0wk3y/how-i-landed-a-job-in-cyber-security-with-no-professional-experience-certifications-nor-a-degree-2doc)
 - [IAANSEC | WannaCry Analysis Report](https://dev.to/l0wk3y/wannacry-analysis-report-g7c)
@@ -76,9 +67,8 @@ engineering as a hobby.
 - [TryHackMe - REloaded Writeup](https://dev.to/l0wk3y/tryhackme-reloaded-writeup-4n1o)
 <!-- BLOG-POST-LIST:END -->
 
-#
 
-### 📈  Stats
+# 📈  Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L0WK3Y-IAAN)](https://github.com/anuraghazra/github-readme-stats)
 
