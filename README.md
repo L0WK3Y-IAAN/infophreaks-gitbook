@@ -52,7 +52,7 @@ Forward-thinking Software Engineer with a background working effectively in dyna
 
 ## 📖 Latest Blog Posts
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>How I Landed How I Landed A Job In Cyber Security With No Professional Experience, Certifications, Nor A Degree.</strong></td><td></td><td></td><td><a href="https://app.gitbook.com/o/A9NqrI51qIpICMxo0hd5/s/uNGziNBCJS6sCcuLUubV/">How I Landed A Job In Cyber Security</a></td><td><a href=".gitbook/assets/iaan_security_cover.jpg">iaan_security_cover.jpg</a></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>How I Landed How I Landed A Job In Cyber Security With No Professional Experience, Certifications, Nor A Degree.</strong></td><td></td><td></td><td><a href="https://app.gitbook.com/o/A9NqrI51qIpICMxo0hd5/s/uNGziNBCJS6sCcuLUubV/">How I Landed A Job In Cyber Security</a></td><td><a href=".gitbook/assets/iaan_security_cover.jpg">iaan_security_cover.jpg</a></td></tr><tr><td><strong>What is Malware Analysis</strong></td><td></td><td></td><td><a href="https://app.gitbook.com/o/A9NqrI51qIpICMxo0hd5/s/J5gSis1d4xp1nOavzY6f/">What Is Malware Analysis</a></td><td><a href=".gitbook/assets/iaan_security_cover.jpg">iaan_security_cover.jpg</a></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 ## 📈 Stats
 
