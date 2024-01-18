@@ -1,8 +1,11 @@
-# HackTricks
+---
+cover: .gitbook/assets/iaan_security_cover_gitbook.jpg
+coverY: 2
+---
 
-<figure><img src=".gitbook/assets/hacktricks.gif" alt=""><figcaption></figcaption></figure>
+# IAAN
 
-_Hacktricks logos & motion design by_ [_@ppiernacho_](https://www.instagram.com/ppieranacho/)_._
+
 
 {% hint style="success" %}
 **Welcome to the wiki where you will find each hacking trick/technique/whatever I have learnt from CTFs, real life apps, reading researches, and news.**
@@ -22,7 +25,7 @@ _Your company could be here._
 
 ### [STM Cyber](https://www.stmcyber.com)
 
-<figure><img src=".gitbook/assets/stm (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/stm%20(1).png" alt=""><figcaption></figcaption></figure>
 
 [**STM Cyber**](https://www.stmcyber.com) is a great cybersecurity company whose slogan is **HACK THE UNHACKABLE**. They perform their own research and develop their own hacking tools to **offer several valuable cybersecurity services** like pentesting, Red teams and training.
 
@@ -32,7 +35,7 @@ You can check their **blog** in [**https://blog.stmcyber.com**](https://blog.stm
 
 ### [RootedCON](https://www.rootedcon.com/)
 
-<figure><img src=".gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image%20(4)%20(1)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
 
 [**RootedCON**](https://www.rootedcon.com) is the most relevant cybersecurity event in **Spain** and one of the most important in **Europe**. With **the mission of promoting technical knowledge**, this congress is a boiling meeting point for technology and cybersecurity professionals in every discipline.
 
@@ -40,17 +43,17 @@ You can check their **blog** in [**https://blog.stmcyber.com**](https://blog.stm
 
 ### [Intigriti](https://www.intigriti.com)
 
-<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image%20(2)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
 
 **Intigriti** is the **Europe's #1** ethical hacking and **bug bounty platform.**
 
 **Bug bounty tip**: **sign up** for **Intigriti**, a premium **bug bounty platform created by hackers, for hackers**! Join us at [**https://go.intigriti.com/hacktricks**](https://go.intigriti.com/hacktricks) today, and start earning bounties up to **$100,000**!
 
-{% embed url="https://go.intigriti.com/hacktricks" %}
+{% embed url="https://go.intigriti.com/hacktricks" fullWidth="false" %}
 
 ### [Trickest](https://trickest.com/?utm\_campaign=hacktrics\&utm\_medium=banner\&utm\_source=hacktricks)
 
-<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image%20(3)%20(1)%20(1)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
 
 \
 Use [**Trickest**](https://trickest.com/?utm\_campaign=hacktrics\&utm\_medium=banner\&utm\_source=hacktricks) to easily build and **automate workflows** powered by the world's **most advanced** community tools.
@@ -61,7 +64,7 @@ Get Access Today:
 
 ### [Intruder](https://www.intruder.io/?utm\_source=referral\&utm\_campaign=hacktricks)
 
-<figure><img src=".gitbook/assets/image (675).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image%20(675).png" alt=""><figcaption></figcaption></figure>
 
 Stay a step ahead in the cybersecurity game.
 
@@ -75,7 +78,7 @@ Intruder never rests. Round-the-clock protection monitors your systems 24/7. Wan
 
 ### [HACKENPROOF](https://bit.ly/3xrrDrL)
 
-<figure><img src=".gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image%20(5)%20(1).png" alt=""><figcaption></figcaption></figure>
 
 Join [**HackenProof Discord**](https://discord.com/invite/N3FrSbmwdy) server to communicate with experienced hackers and bug bounty hunters!
 
@@ -94,7 +97,7 @@ Stay informed with the newest bug bounties launching and crucial platform update
 
 ### [Pentest-Tools.com](https://pentest-tools.com/) - The essential penetration testing toolkit
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image%20(3).png" alt=""><figcaption></figcaption></figure>
 
 **Instantly available setup for vulnerability assessment & penetration testing**. Run a full pentest from anywhere with 20+ tools & features that go from recon to reporting. We don't replace pentesters - we develop custom tools, detection & exploitation modules to give them back some time to dig deeper, pop shells, and have fun.
 
@@ -102,7 +105,7 @@ Stay informed with the newest bug bounties launching and crucial platform update
 
 ### [WebSec](https://websec.nl/)
 
-<figure><img src=".gitbook/assets/websec (1).svg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/websec%20(1).svg" alt=""><figcaption></figcaption></figure>
 
 [**WebSec**](https://websec.nl) is a professional cybersecurity company based in **Amsterdam** which helps **protecting** businesses **all over the world** against the latest cybersecurity threats by providing **offensive-security services** with a **modern** approach.
 
