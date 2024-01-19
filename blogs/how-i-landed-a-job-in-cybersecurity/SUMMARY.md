@@ -4,4 +4,5 @@
 
 ## 📖 Blogs <a href="#iaan-blogs" id="iaan-blogs"></a>
 
-* [Page 1](iaan-blogs/page-1.md)
+* [IAAN Security Blogs](iaan-blogs/iaan-security-blogs/README.md)
+  * [How I Landed A Job In Cyber Security](iaan-blogs/iaan-security-blogs/how-i-landed-a-job-in-cyber-security.md)
