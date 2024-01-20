@@ -15,3 +15,4 @@
 ## ⚔ CTFs <a href="#iaan-ctfs" id="iaan-ctfs"></a>
 
 * [Jotform Test Quiz](iaan-ctfs/jotform-test-quiz.md)
+* [Page](iaan-ctfs/page.md)
