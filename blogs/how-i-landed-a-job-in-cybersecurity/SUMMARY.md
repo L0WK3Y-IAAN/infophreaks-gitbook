@@ -14,4 +14,4 @@
 
 ## ⚔ CTFs <a href="#iaan-ctfs" id="iaan-ctfs"></a>
 
-* [Page 2](iaan-ctfs/page-2.md)
+* [Jotform Test Quiz](iaan-ctfs/jotform-test-quiz.md)
