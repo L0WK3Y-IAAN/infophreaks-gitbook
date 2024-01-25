@@ -45,8 +45,4 @@ Join us today and be part of a thriving community dedicated to making a differen
 
 ***
 
-Contact email: contact@infophreak.com
-
-***
-
 All logos, designs, and animations were made by [SevensProductions](https://sevensproductions.com/)
