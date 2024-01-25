@@ -1,0 +1,3 @@
+# The Team
+
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><h2><strong>Join me on my journey to learn about all things cybersecurity, business, and finance!</strong></h2></td><td><h4>- Jonny. S</h4></td><td></td><td><a href="broken-reference">Broken file</a></td><td><a href="https://app.gitbook.com/o/A9NqrI51qIpICMxo0hd5/s/O83i6LnWvXZ3xC1GOWkh/">IAAN</a></td></tr></tbody></table>
