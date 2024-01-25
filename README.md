@@ -6,7 +6,7 @@ description: >-
 
 # Welcome
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/infophreak-010.png" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:purple;">✨A Community Driven Cybersecurity Project:</mark>
 
