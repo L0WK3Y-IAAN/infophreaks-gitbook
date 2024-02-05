@@ -4,6 +4,6 @@
 
 ## 🤝 Meet The Team
 
-* [Page 1](meet-the-team/page-1.md)
+* [INFOPHREAK TEAM MEMBERS](meet-the-team/infophreak-team-members.md)
 * [Page](meet-the-team/page.md)
 * [Page 3](meet-the-team/page-3.md)
