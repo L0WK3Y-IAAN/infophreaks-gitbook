@@ -14,4 +14,7 @@
     * [TryHackMe](meet-the-team/iaan/write-ups/tryhackme.md)
     * [HackTheBox](meet-the-team/iaan/write-ups/hackthebox.md)
   * [➕ Extras](meet-the-team/iaan/extras/README.md)
-    * [Check Out My Music](meet-the-team/iaan/extras/check-out-my-music.md)
+    * [Check Out My Music](meet-the-team/iaan/extras/check-out-my-music/README.md)
+      * [Chill](meet-the-team/iaan/extras/check-out-my-music/chill.md)
+      * [House](meet-the-team/iaan/extras/check-out-my-music/house.md)
+      * [Lofi](meet-the-team/iaan/extras/check-out-my-music/lofi.md)
