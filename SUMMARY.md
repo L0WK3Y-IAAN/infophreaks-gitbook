@@ -11,7 +11,7 @@
       * [Introduction To The TCP-IP Protocol](meet-the-team/iaan/blog/coursera/introduction-to-the-tcp-ip-protocol-framework.md)
     * [IAAN Security](meet-the-team/iaan/blog/iaan-security/README.md)
       * [How I Landed A Job In Cybersecurity](meet-the-team/iaan/blog/iaan-security/how-i-landed-a-job-in-cybersecurity.md)
-      * [How I Landed A Job In Cybersecurity](meet-the-team/iaan/blog/iaan-security/what-is-malware-analysis.md)
+      * [What is Malware Analysis?](meet-the-team/iaan/blog/iaan-security/what-is-malware-analysis.md)
   * [⚔ CTF](meet-the-team/iaan/ctf.md)
   * [🚩 Write-Ups](meet-the-team/iaan/write-ups/README.md)
     * [TIS-100](meet-the-team/iaan/write-ups/tis-100.md)
