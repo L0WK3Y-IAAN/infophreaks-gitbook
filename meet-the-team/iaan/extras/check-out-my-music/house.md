@@ -1,5 +1,6 @@
 ---
-cover: ../../.gitbook/assets/wp7124690.jpg
+cover: >-
+  https://github.com/L0WK3Y-IAAN/infophreaks-gitbook/blob/home-page/meet-the-team/iaan/.gitbook/assets/wp7124690.jpg
 coverY: 0
 ---
 
@@ -12,4 +13,3 @@ Track by [Simetra](https://soundcloud.com/art-of-independence)
 {% embed url="https://w.soundcloud.com/player/?auto_play=false&color=%23ff5500&hide_related=false&show_comments=true&show_reposts=false&show_teaser=true&show_user=true&url=https://api.soundcloud.com/tracks/1501880089&visual=true" %}
 Track by [Simetra](https://soundcloud.com/art-of-independence)
 {% endembed %}
-

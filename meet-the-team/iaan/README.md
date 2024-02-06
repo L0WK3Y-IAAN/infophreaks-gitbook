@@ -1,9 +1,10 @@
 ---
-cover: .gitbook/assets/iaan_security_cover_gitbook.jpg
+cover: >-
+  https://github.com/L0WK3Y-IAAN/infophreaks-gitbook/blob/home-page/meet-the-team/iaan/.gitbook/assets/iaan_security_cover_gitbook.jpg
 coverY: 0
 ---
 
-# 👋 About Me
+# 💼 IAAN
 
 {% hint style="success" %}
 **Join me on my journey to learn about all things cyber security, software development, business, and finance!**
@@ -52,7 +53,7 @@ Forward-thinking Software Engineer with a background working effectively in dyna
 
 ## 📖 Latest Blog Posts
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>How I Landed How I Landed a Job In Cyber Security.</strong></td><td></td><td></td><td><a href="blog/iaan-security/how-i-landed-a-job-in-cybersecurity.md">how-i-landed-a-job-in-cybersecurity.md</a></td><td><a href=".gitbook/assets/Screenshot 2024-01-18 152910.png">Screenshot 2024-01-18 152910.png</a></td></tr><tr><td><strong>What is Malware Analysis?</strong></td><td></td><td></td><td><a href="blog/iaan-security/what-is-malware-analysis.md">what-is-malware-analysis.md</a></td><td><a href=".gitbook/assets/malware-analysis-feature (1).jpg">malware-analysis-feature (1).jpg</a></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>How I Landed How I Landed a Job In Cyber Security.</strong></td><td></td><td></td><td><a href="blog/iaan-security/how-i-landed-a-job-in-cybersecurity.md">how-i-landed-a-job-in-cybersecurity.md</a></td><td></td></tr><tr><td><strong>What is Malware Analysis?</strong></td><td></td><td></td><td><a href="blog/iaan-security/what-is-malware-analysis.md">what-is-malware-analysis.md</a></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 ## 📈 Stats
 

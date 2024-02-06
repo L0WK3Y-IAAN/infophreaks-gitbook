@@ -1,9 +1,10 @@
 ---
-cover: ../../.gitbook/assets/iaan_security_cover_gitbook (1).jpg
+cover: >-
+  https://github.com/L0WK3Y-IAAN/infophreaks-gitbook/blob/home-page/meet-the-team/iaan/.gitbook/assets/iaan_security_cover_gitbook%20(1).jpg
 coverY: 0
 ---
 
-# How I Landed A Job in Cybersecurity
+# How I Landed A Job In Cybersecurity
 
 ### About Me
 
@@ -44,7 +45,7 @@ The software development program was divided into two 6 month segments, the _Fro
 
 ### Full-Time Study Era
 
-During this time I was desperate to get into the field and wanted nothing more than to work in Cyber Security. I left the retail job I was working because I could no longer tolerate the toxic work environment I was working in. So I decided to study full-time and build up my LinkedIn network. During this time I transitioned from primarily studying Udemy courses to focusing on CTF sites like TryHackMe and HackTheBox. I practiced on these sites for hours a day on top of building my LinkedIn network and applying to jobs until I burned myself out and had to take breaks. I've learned so much about cybersecurity during this time, but I realized that I still don't know what position within security I want to pursue. So I did research into the different positions in Cyber Security.&#x20;
+During this time I was desperate to get into the field and wanted nothing more than to work in Cyber Security. I left the retail job I was working because I could no longer tolerate the toxic work environment I was working in. So I decided to study full-time and build up my LinkedIn network. During this time I transitioned from primarily studying Udemy courses to focusing on CTF sites like TryHackMe and HackTheBox. I practiced on these sites for hours a day on top of building my LinkedIn network and applying to jobs until I burned myself out and had to take breaks. I've learned so much about cybersecurity during this time, but I realized that I still don't know what position within security I want to pursue. So I did research into the different positions in Cyber Security.
 
 <figure><img src="https://i.imgur.com/vgoqLsr.png" alt=""><figcaption></figcaption></figure>
 
@@ -60,7 +61,7 @@ In late 2021, I received a connection from the President and Chief Revenue Offic
 
 It is now the year 2022, and it's time to start fresh. I am still working as a freelancer and on the hunt for full-time work. At this point I am fully confident that I have what it takes to land a full-time role, it's just a matter of a company being willing to take a chance on me. For about a year now, I've applied to multiple Security Researcher roles as I feel they align with my experiences the most. My main technique for finding jobs is not to search for terms such as _" Entry Level Security", "Entry Level Cyber Security Jobs"_ or any generic search queries like those, instead, my approach was to base my search on skills that I've learned during my studies.
 
-For example, since the career I was aiming for was to become a Malware Analyst, I'd search for some of the tools used in Malware Analysis. So my search queries would be _"x64dbg"_ or "Ghidra" since Malware Analysis was already kind of a niche role in security I could just search _"Malware Analysis"_ or _"Reverse Engineering"_ and sift through the results for job listings that best match my experiences.  Once I find a role that I'm interested in, I will reach out to a recruiter at the company and inquire about the position to show my interest. Here's an example of the inquiry that I'll send the recruiter
+For example, since the career I was aiming for was to become a Malware Analyst, I'd search for some of the tools used in Malware Analysis. So my search queries would be _"x64dbg"_ or "Ghidra" since Malware Analysis was already kind of a niche role in security I could just search _"Malware Analysis"_ or _"Reverse Engineering"_ and sift through the results for job listings that best match my experiences. Once I find a role that I'm interested in, I will reach out to a recruiter at the company and inquire about the position to show my interest. Here's an example of the inquiry that I'll send the recruiter
 
 <figure><img src="https://i.imgur.com/urxUPk3.png" alt=""><figcaption></figcaption></figure>
 
