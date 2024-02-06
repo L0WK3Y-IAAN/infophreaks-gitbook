@@ -9,11 +9,11 @@ coverY: 0
 
 {% tabs %}
 {% tab title="Intro" %}
-### This blog is a brief write-up of the TryHackMe room [Dunkle Materie](https://tryhackme.com/room/dunklematerieptxc9) and how to solve each question. This room revolves around using the tool [ProcDot](https://procdot.com/) to investigate a ransomware attack. Let’s begin!
+#### This blog is a brief write-up of the TryHackMe room [Dunkle Materie](https://tryhackme.com/room/dunklematerieptxc9) and how to solve each question. This room revolves around using the tool [ProcDot](https://procdot.com/) to investigate a ransomware attack. Let’s begin!
 {% endtab %}
 
 {% tab title="Scenario" %}
-#### _The firewall alerted the Security Operations Center that one of the machines at the Sales department, which stores all the customers’ data, contacted the malicious domains over the network. When the Security Analysts looked closely, the data sent to the domains contained suspicious base64-encoded strings. The Analysts involved the Incident Response team in pulling the Process Monitor and network traffic data to determine if the host is infected. But once they got on the machine, they knew it was a ransomware attack by looking at the wallpaper and reading the ransomware note. Can you find more evidence of compromise on the host and what ransomware was involved in the attack?_
+_**The firewall alerted the Security Operations Center that one of the machines at the Sales department, which stores all the customers’ data, contacted the malicious domains over the network. When the Security Analysts looked closely, the data sent to the domains contained suspicious base64-encoded strings. The Analysts involved the Incident Response team in pulling the Process Monitor and network traffic data to determine if the host is infected. But once they got on the machine, they knew it was a ransomware attack by looking at the wallpaper and reading the ransomware note. Can you find more evidence of compromise on the host and what ransomware was involved in the attack?**_
 {% endtab %}
 {% endtabs %}
 
