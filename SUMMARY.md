@@ -38,3 +38,8 @@
   * [Lofi](extras/check-out-my-music/lofi.md)
   * [House](extras/check-out-my-music/house.md)
 * [📚 Wiki](https://app.gitbook.com/o/A9NqrI51qIpICMxo0hd5/s/fLlcNT32grkt7BFU9SEU/)
+
+***
+
+* [Page 1](page-1.md)
+* [Page 3](page-3.md)
