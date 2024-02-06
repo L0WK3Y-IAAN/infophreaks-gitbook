@@ -1,5 +1,0 @@
-# INFOPHREAK TEAM MEMBERS
-
-* IAAN
-* Criz117
-* Slashy
