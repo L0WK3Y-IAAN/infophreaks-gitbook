@@ -5,7 +5,7 @@
 ## 🤝 Meet The Team
 
 * [💼 IAAN](meet-the-team/iaan/README.md)
-  * [Blog](meet-the-team/iaan/blog/README.md)
+  * [📖 Blog](meet-the-team/iaan/blog/README.md)
     * [Coursera](meet-the-team/iaan/blog/coursera.md)
     * [IAAN Security](meet-the-team/iaan/blog/iaan-security.md)
   * [Write-Ups](meet-the-team/iaan/write-ups/README.md)
