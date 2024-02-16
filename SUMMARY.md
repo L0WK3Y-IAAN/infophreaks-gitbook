@@ -22,7 +22,18 @@
       * [Chill](meet-the-team/iaan/extras/check-out-my-music/chill.md)
       * [House](meet-the-team/iaan/extras/check-out-my-music/house.md)
       * [Lofi](meet-the-team/iaan/extras/check-out-my-music/lofi.md)
-* [🐢 SH3LL](meet-the-team/sh3ll.md)
+* [🐢 SH3LL](meet-the-team/sh3ll/README.md)
+  * [BLOG](meet-the-team/sh3ll/blog.md)
+  * [WRITEUPS](meet-the-team/sh3ll/writeups.md)
+  * [CTFs](meet-the-team/sh3ll/ctfs.md)
 * [🐈 iCat404](meet-the-team/icat404.md)
 * [👾 Criz117](meet-the-team/criz117.md)
 * [🧠 echotango](meet-the-team/echotango.md)
+
+## Library
+
+* [Coming Soon...](library/coming-soon....md)
+
+## Wiki
+
+* [Coming Soon...](wiki/coming-soon....md)
