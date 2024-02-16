@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [infophreak](README.md)
 
 ## 🤝 Meet The Team
 
