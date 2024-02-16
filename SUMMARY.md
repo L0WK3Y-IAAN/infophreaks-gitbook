@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [infophreak](README.md)
 
 ## 🤝 Meet The Team
 
@@ -22,7 +22,7 @@
       * [Chill](meet-the-team/iaan/extras/check-out-my-music/chill.md)
       * [House](meet-the-team/iaan/extras/check-out-my-music/house.md)
       * [Lofi](meet-the-team/iaan/extras/check-out-my-music/lofi.md)
-
-***
-
-* [Paaadfsdgsfgge 1](paaadfsdgsfgge-1.md)
+* [🐢 SH3LL](meet-the-team/sh3ll.md)
+* [🐈 iCat404](meet-the-team/icat404.md)
+* [👾 Criz117](meet-the-team/criz117.md)
+* [🧠 echotango](meet-the-team/echotango.md)
